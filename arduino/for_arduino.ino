@@ -29,10 +29,9 @@ display arduino
   NOTE:
   There is a mistake (LAT, 5V) in the silkscreen on a batch of the PCBs.
   Above wiring is correct.
-
-  Change false to true if the color is inverted.
 */
 FlipDot_5x7 flipdot(1, 1, true);
+/* Change false to true if the color is inverted. */
 int liste[35];
 boolean flag = false;
 int nItem = 0;
