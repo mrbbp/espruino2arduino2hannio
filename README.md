@@ -1,6 +1,5 @@
 # Espruino to Arduino to Hannio FlipDot Display
-### a simple example to draw text with an Espruino and display to an Hannio FlipDot 5x7 module.<br>
-<br>
+#### a simple example to draw text with an Espruino and display to an Hannio FlipDot 5x7 module.<br>
 I'm French and love accents on my letters. The Hannio lib use the Adafruit GFX lib for display chars.
 There is no accents on it!<br>
 Espruino Pico is a little board with a beautifull lib to draw and use custom fonts on differents display.<br>
